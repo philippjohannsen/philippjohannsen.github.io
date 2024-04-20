@@ -1,0 +1,13 @@
+.skills {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #000000; /* Default text color for categories */
+}
+
+.category {
+    margin-bottom: 8px;
+}
+
+.items {
+    color: #ff00ff; /* Blue color for items */
+}
