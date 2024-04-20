@@ -1,37 +1,28 @@
-# Data Science CV Portfolio
+# From Physics to Data Science
 
 ## Introduction
-Introduce yourself and provide a brief overview of your background and experience in data science.
+Hi you! I'm Philipp, a young physicist within nuclear medicine and a data science enthusiast. I have only recently begun my career in data science, after having browsed through courses on DataCamp and Codecademy. But given my solid background in mathematics, I find that courses like this don't provide me with much. Hence I am seeking to learning data science through "*learning by doing*".
+
+This portfolio is a representation of my GitHub repository **Data-Science-Projects**, where I plan to upload everything data-science related. 
 
 ## Education
 List your educational qualifications, including degrees, certifications, and relevant coursework.
 
 ## Skills
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="skills">
-        <div class="category"><strong>Programming:</strong>
-            <code class="items">Python</code>, <code class="items">Linux</code>
-        </div>
-        <div class="category"><strong>Data Processing:</strong>
-            <code class="items">Pandas</code>, <code class="items">SQLite</code>, <code class="items">NumPy</code>
-        </div>
-        <div class="category"><strong>Data Visualization:</strong>
-            <code class="items">Matplotlib</code>
-        </div>
-        <div class="category"><strong>Data Science:</strong>
-            <code class="items">Matplotlib</code>, <code class="items">Seaborn</code>
-        </div>
-        <div class="category"><strong>Professional Skills:</strong>
-            <code class="items">Matplotlib</code>, <code class="items">Seaborn</code>
-        </div>
-</body>
-</html>
+
+**Programming:** `Python`, `Linux`
+
+**Data Processing:** `pandas`, `SQLite`, `numpy`
+
+**Data Visualization:** `matplotlib`
+
+**Machine Learning:** `scikit-learn`
+
+**Deep Learning:** `PyTorch`
+
+**Theoretical Skills:** `Mathematics`, `Statistics`, `Calculus`, `Linear Algebra`
+
+**Soft Skills:** `Communication`, `Project Management`, `Leadership`, `Analytical Problem Solving`, `Critical Thinking`, `Solving Complex Problems`
 
 ## Experience
 Detail your professional experience in data science, including any relevant projects, internships, or research work.
@@ -53,5 +44,4 @@ Provide references or contact information for individuals who can vouch for your
 
 ## Contact Information
 Include your contact details, such as email address, phone number, and LinkedIn profile.
- 
  
